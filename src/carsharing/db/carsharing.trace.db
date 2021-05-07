@@ -1,0 +1,4 @@
+2021-05-07 17:37:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "UPDATE CUSTOMER SET RENTED_CAR_ID = 2 WHERE ID = 2 )[*];"
+Syntax error in SQL statement "UPDATE CUSTOMER SET RENTED_CAR_ID = 2 WHERE ID = 2 )[*];"; SQL statement:
+UPDATE CUSTOMER SET RENTED_CAR_ID = 2 WHERE ID = 2 ); [42000-200]
